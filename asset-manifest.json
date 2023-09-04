@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_Quiambao/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_Quiambao/static/js/main.ecc5bc7d.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository_Quiambao/static/js/787.eed000a1.chunk.js",
+    "static/media/nike2.jpg": "/Sample_React_Repository_Quiambao/static/media/nike2.74360e2de4e7a659cb4f.jpg",
+    "static/media/nike5.jpg": "/Sample_React_Repository_Quiambao/static/media/nike5.93b8c37db281df727e68.jpg",
+    "static/media/nike4.jpg": "/Sample_React_Repository_Quiambao/static/media/nike4.0abeab911108c51a5d39.jpg",
+    "static/media/nike1.jpg": "/Sample_React_Repository_Quiambao/static/media/nike1.6f8cf0efbd3d4909aa76.jpg",
+    "static/media/nike3.jpg": "/Sample_React_Repository_Quiambao/static/media/nike3.8b28c1ee24ce979873ab.jpg",
+    "static/media/nikeo.jpg": "/Sample_React_Repository_Quiambao/static/media/nikeo.8d547e9020ee5e6768bc.jpg",
+    "static/media/nike6.jpg": "/Sample_React_Repository_Quiambao/static/media/nike6.1596f926a6e14559db7a.jpg",
+    "index.html": "/Sample_React_Repository_Quiambao/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_Quiambao/static/css/main.88404e20.css.map",
+    "main.ecc5bc7d.js.map": "/Sample_React_Repository_Quiambao/static/js/main.ecc5bc7d.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository_Quiambao/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.ecc5bc7d.js"
+  ]
+}
